@@ -1,0 +1,2 @@
+python "autologin.py"
+pause
